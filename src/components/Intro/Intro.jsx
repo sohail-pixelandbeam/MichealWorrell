@@ -51,7 +51,7 @@ const Intro = () => {
       <div className="i-right">
         <img src={Vector1} alt="" />
         <img src={Vector2} alt="" />
-        <img src={girl} alt=""
+        <img src={boy} alt=""
          width="300px"
          style={{marginLeft:'-50px'}}
         />
