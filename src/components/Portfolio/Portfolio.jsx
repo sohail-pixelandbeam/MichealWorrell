@@ -42,9 +42,6 @@ const Portfolio = () => {
             <img src={projectImg3} alt="img"  />
             </a>
           </SwiperSlide>
-        <SwiperSlide>
-          <img src={HOC} alt="" />
-        </SwiperSlide>
       </Swiper>
     </div>
   );

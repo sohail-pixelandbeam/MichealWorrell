@@ -42,9 +42,12 @@ const Intro = () => {
         </Link>
         {/* social icons */}
         <div className="i-icons">
-          <img src={Github} alt="" />
-          <img src={LinkedIn} alt="" />
-          <img src={Instagram} alt="" />
+          <a href="https://github.com/michealworrell" target="_blank">
+          <img src={Github} alt="gitHub" />
+          </a>
+          {/* <a href="https://github.com/" target="_blank">
+          <img src={LinkedIn} alt="linkedin" />
+          </a> */}
         </div>
       </div>
       {/* right image side */}
@@ -71,7 +74,7 @@ const Intro = () => {
           transition={transition}
           className="floating-div"
         >
-          <FloatinDiv img={crown} text1="Web" text2="Developer" />
+          <FloatinDiv img={figma} imgWidth={'100px'} text1="UX/UI" text2="Designer" />
         </motion.div>
 
 {/*         
@@ -92,7 +95,8 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={figma} imgWidth={'100px'} text1="UX/UI" text2="Designer" />
+          {/* <FloatinDiv img={figma} imgWidth={'100px'} text1="UX/UI" text2="Designer" /> */}
+          <FloatinDiv img={crown} text1="Web" text2="Developer" />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>
