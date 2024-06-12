@@ -25,7 +25,7 @@ const Testimonial = () => {
     },
     {
       img: profilePic3,
-      name:"Daniel hisrada",
+      name:"Daniel Herada",
       review:
         "I had the pleasure of working with Micheal Worrell on a project recently, and I couldn't be more impressed with his exceptional services. From start to finish, Micheal Worrell exhibited a level of professionalism, creativity, and dedication that exceeded my expectations.",
     },
