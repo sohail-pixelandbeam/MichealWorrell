@@ -15,19 +15,19 @@ const Testimonial = () => {
     {
       img: profilePic1,
       name:"Nathaniel Heutmaker",
-      review:"Micheal Worrell was easy to work with. She was very personable and did the job quickly. She wanted me to be able to leverage her services for the betterment of my company and website in order to take full advantage of the opportunities of the tools that I had chosen and advised me on how to do so. She understood my goals with ease and was a delight to work with.",
+      review:"Micheal Worrell was easy to work with. He was very personable and did the job quickly. He wanted me to be able to leverage his services for the betterment of my company and website in order to take full advantage of the opportunities of the tools that I had chosen and advised me on how to do so. He understood my goals with ease and was a delight to work with.",
     },
     {
       img: profilePic2,
       name:"Simone Martins",
       review:
-        "Micheal Worrell, is an excellent professional. She designed a beautiful flyer for my business with an outstanding artwork and in a timely manner. Thank you, we will working together in my next endeavour and I am also recommending you to my fellow business owners",
+        "Micheal Worrell, is an excellent professional. He designed a beautiful flyer for my business with an outstanding artwork and in a timely manner. Thank you, we will working togethis in my next endeavour and I am also recommending you to my fellow business owners",
     },
     {
       img: profilePic3,
-      name:"Daniel Herrada",
+      name:"Daniel hisrada",
       review:
-        "I had the pleasure of working with Micheal Worrell on a project recently, and I couldn't be more impressed with her exceptional services. From start to finish, Micheal Worrell exhibited a level of professionalism, creativity, and dedication that exceeded my expectations.",
+        "I had the pleasure of working with Micheal Worrell on a project recently, and I couldn't be more impressed with his exceptional services. From start to finish, Micheal Worrell exhibited a level of professionalism, creativity, and dedication that exceeded my expectations.",
     },
   ];
 
